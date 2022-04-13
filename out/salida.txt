@@ -1,0 +1,8 @@
+LexToken(ID,'m',1,0)
+LexToken(ZUORDNEN,'=',1,2)
+LexToken(ANZAHL,7,1,4)
+LexToken(KOMMA,',',1,5)
+LexToken(ID,'n',2,7)
+LexToken(ZUORDNEN,'=',2,9)
+LexToken(ANZAHL,85,2,11)
+LexToken(SEMMIKOLOM,';',2,13)

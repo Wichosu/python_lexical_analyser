@@ -1,0 +1,16 @@
+VAR x, squ;
+
+VERFAHREN square;
+START
+   squ = x * x
+ENDE;
+
+START
+   x = 1;
+   WAHREND x <= 10 DO
+   START
+      ANRUF square;
+      ! squ;
+      x = x + 1
+   ENDE
+ENDE.
